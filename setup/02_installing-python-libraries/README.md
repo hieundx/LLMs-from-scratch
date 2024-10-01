@@ -27,7 +27,7 @@ python python_environment_check.py
 
 It's also recommended to check the versions in JupyterLab by running the `python_environment_check.ipynb` in this directory, which should ideally give you the same results as above.
 
-<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/setup/02_installing-python-libraries/check_2.jpg" width="500px">
+<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/setup/02_installing-python-libraries/check_2.jpg" width="800px">
 
 If you see the following issues, it's likely that your JupyterLab instance is connected to wrong conda environment:
 
